@@ -1,8 +1,8 @@
 body{
-  color:blue;
+  color:lime;
    font-family:'Nunito', sans-serif;
-   background-color: white;
-   
+   background-color: red
+
 }
 
 h1{
@@ -16,12 +16,51 @@ h1{
 
 #sectionheader{
     font-size:15px;
-    color:blue;
+    color:lime;
     text-shadow:red 2px 1px 2px;
     font-family:'Lato', sans-serif;
+    background-color: aqua;
 }
 
 #topheader{
     margin: 0%;
     display: inline-block;
+}
+
+article{
+    background-color: darkblue;
+    border: outset white;
+    margin-bottom:10px;
+    
+}
+
+ul{
+    border: outset white;
+    background-color: darkblue;
+    font-family: 'Comfortaa', cursive;
+
+}
+
+
+section{
+    background-color: yellow;
+    border: outset white;
+}
+#class{
+    background-color: brown;
+    padding:20px;
+    font-family: 'Open Sans', sans-serif;
+ display: inline-block 70%;
+ vertical-align:"top";
+
+
+}
+
+li{
+    padding: 5px;
+}
+
+#articleheader{
+ font-size: 18px;
+ color: lime;
 }
